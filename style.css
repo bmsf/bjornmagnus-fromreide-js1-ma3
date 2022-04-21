@@ -1,0 +1,10 @@
+body {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+}
+.wrapper {
+	border: 2px solid black;
+	border-radius: 5px;
+	padding: 20px;
+	margin: 20px;
+}
